@@ -34,4 +34,17 @@ For reading the buttons, I used the [Keypad](https://github.com/Nullkraft/Keypad
 Wiring
 ======
 
-TODO
+| PCB Label     | Arduino Pin |
+| ------------- | ----------- |
+| SWITCH        | A0          |
+| SWT-GND1      | A1          |
+| SWT-GND2      | A2          |
+| SWT-GND3      | A3          |
+| SWT-GND4      | A4          |
+| LED-GND1      |  3          |
+| LED-GND2      |  5          |
+| LED-GND3      |  6          |
+| LED-GND4      |  9          |
+| RED           |  4          |
+| GREEN         |  7          |
+| BLUE          |  8          |
