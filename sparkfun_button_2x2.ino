@@ -43,7 +43,7 @@ Color color_states[] = {
   Color(0  , 0  , 255),
   Color(255, 255, 0  ),
   Color(0  , 255, 255),
-  Color(0  , 255, 255),
+  Color(255 , 0 , 255),
 };
 uint8_t num_color_states = sizeof(color_states) / sizeof(color_states[0]);
 
